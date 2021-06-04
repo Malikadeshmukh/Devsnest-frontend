@@ -1,0 +1,21 @@
+<html>
+ <head>
+<title>Letter</title>
+</head>
+<body>
+  <h2 align="center"><u><b> Letter </b></u></h2>   
+  <p> 104, lavender apartment,<br>Ram nagar,<br>Nagpur-440023<br><br>Date:02/06/2021<br><br>To,<br>The Dean academics,<br>YCCE,Nagpur 440011 <br><br>Subject:Application for seeking Permission to attend code camp<br><br>Respected Sir,<br> I am ABC, a student of 4<sup>th</sup> semester CT branch.I would like to bring into your kind attention that, Devsnest is organizing a code camp for 30 days in Mumbai. In this camp various activities will be conducted to improve our technical skills and learn some programming languages.<br>Some activities that are going to be conducted are: <br>
+  <table style="width:75%">
+    <tr><th>ACTIVITIES</th>
+    <th>codewizards</th>
+    <th>Team's the theme</th>
+    <th>code-with-us</th>
+    <th>Group discussions</th>
+      </tr>
+    <tr><th>DESCRIPTION</th><td>a coding competion that will help us to be better coders.</td><td> In this activity students will be working in Groups to learn team work and develop skills.</td><td>this activity focuses on programming languages like C, c++ ,python etc</td><td>To clear doubts, this will work as doubt clearing sessions</td></tr>
+    </table> <br>
+  Mentors from all good companies like:<ol><li>Google</li><li>Microsoft</li><li>Infosys</li></ol>will be present there. This camp will help me to enhance my knowledge and give me an amazing experience so i would like to request you to grant me the permission to go to this camp.<br>Thanking you
+  <br><br>Yours sincerely,<br>ABC. 
+  </p>
+</body>
+</html>
