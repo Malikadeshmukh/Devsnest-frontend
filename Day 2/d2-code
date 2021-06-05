@@ -3,15 +3,15 @@
 <title>Letter</title>
 <style>
    body{ background-image:url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); }
-  h2{color:midnightblue }
+  h2{color:midnightblue;font-size: xx-large;}
 </style>
 <body>
  
   <h2 align="center"><u><b>Letter </b></u></h2>   
-  <p> 104, lavender apartment,<br>Ram nagar,<br>Nagpur-440023<br><br>Date:02/06/2021<br><br>To,<br>The Dean academics,<br>YCCE,Nagpur 440011 <br><br><p style="color: mediumvioletred;background-color:thistle;">Subject:Application for seeking Permission to attend code camp</p><br>Respected Sir,<br> I am ABC, a student of 4<sup>th</sup> semester CT branch.I would like to bring into your kind attention that, Devsnest is organizing a code camp for 30 days in Mumbai. In this camp various activities will be conducted to improve our technical skills and learn some programming languages.<br>Some activities that are going to be conducted are: <br>
+  <p style="color: cornsilk;" > 104, lavender apartment,<br>Ram nagar,<br>Nagpur-440023<br><br></body><p>Date:02/06/2021</p><br>To,<br>The Dean academics,<br>YCCE,Nagpur 440011 <br><br><p style="color: rgb(128, 13, 85);background-color:thistle;">Subject:Application for seeking Permission to attend code camp</p><br>Respected Sir,<br> I am ABC, a student of 4<sup>th</sup> semester CT branch.I would like to bring into your kind attention that, Devsnest is organizing a code camp for 30 days in Mumbai. In this camp various activities will be conducted to improve our technical skills and learn some programming languages.<br>Some activities that are going to be conducted are: <br>
   <style>
   table, th, td {
-  border: 2px solid black;
+  border: 2px solid rgb(141, 41, 11);
   }
 </style>  
 <table style="width:75%">
@@ -21,7 +21,7 @@
     <th>code-with-us</th>
     <th>Group discussions</th>
       </tr>
-    <tr><th style="font-family: Arial, Helvetica, sans-serif;color: rgb(128, 130, 209);background-color: rgb(37, 4, 97);">DESCRIPTION</th><td>a coding competion that will help us to be better coders.</td><td> In this activity students will be working in Groups to learn team work and develop skills.</td><td>this activity focuses on programming languages like C, c++ ,python etc</td><td>To clear doubts, this will work as doubt clearing sessions</td></tr>
+    <tr><th style="font-family: Arial, Helvetica, sans-serif;color: rgb(224, 21, 106);background-color: rgb(221, 145, 187);">DESCRIPTION</th><td>a coding competion that will help us to be better coders.</td><td> In this activity students will be working in Groups to learn team work and develop skills.</td><td>this activity focuses on programming languages like C, c++ ,python etc</td><td>To clear doubts, this will work as doubt clearing sessions</td></tr>
     </table> <br>
   Mentors from all good companies like:<ol><li>Google</li><li>Microsoft</li><li>Infosys</li></ol>will be present there. This camp will help me to enhance my knowledge and give me an amazing experience so i would like to request you to grant me the permission to go to this camp.<br>Thanking you
   <br><br>Yours sincerely,<br>ABC
