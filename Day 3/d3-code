@@ -11,7 +11,7 @@
                 float:left; 
                 background-color:rgb(255, 240, 157);
                 width:40%;
-                height:550px;
+                height:575px;
                 margin-left:130px;
             }
             
@@ -19,7 +19,7 @@
                 float:left;
                 background-color:rgb(192, 175, 233);
                 width:40%;
-                height:550px;
+                height:575px;
         }
           h1{color: rgb(40, 29, 109);background-color: rgb(146, 181, 247);}
           #id{ border: 2px solid rgb(146, 42, 206);
