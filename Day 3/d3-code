@@ -1,0 +1,73 @@
+<html>
+    <title>Resume</title>
+    <style>   
+        .class2{ 
+         margin-left:20px;
+         margin-top: 10px;
+         margin-right: 20px;
+         border-bottom: 2px solid rgb(34, 3, 73);
+        }
+        .leftbox {
+                float:left; 
+                background-color:rgb(255, 240, 157);
+                width:40%;
+                height:550px;
+            }
+            
+            .rightbox{
+                float:left;
+                background-color:rgb(192, 175, 233);
+                width:40%;
+                height:550px;
+        }
+          h1{color: rgb(40, 29, 109);background-color: rgb(146, 181, 247);}
+          #id{ border: 2px solid rgb(146, 42, 206);
+       margin-left: 10px;}
+         </style>
+
+    <body>
+      <h1 align="center">Tony Stark</h1>
+      <span style="background-color: rgb(245, 195, 238);color: rgb(150, 8, 79);">Software Engineer</span>
+      <hr>
+      <p style="color: rgb(71, 6, 100);"><b>SUMMARY</b></p>
+      <p>4+ years experienced software engineer highly skilled in software development,testing,documentation etc. across the complete development life cycle of a product.Handles comples project management & coordination work very efficiently to deliver results.</p>
+     
+
+      <div class="leftbox">
+      <span class="class2"><b>CONTACT INFORMATION</b><br></span>
+      <p align="left">Ph no.:890-555-0401<br>Email:tonystark3000@gmail.com<br>Address:9 wall st., New York,100005,USA</p>     
+      <span class="class2"><b>PROFESSIONAL EXPERIENCE</b><br></span>
+      <p align="left">SOFTWARE DEVELOPER{Mar'14-Present}</p><b>Stay great hotels</b>[FS,CA]:<br>
+      <i>Stay great is one of the leading aggregators of standardized motels in North America and serving ~50k customers every month.</i>
+      Product:An online hotel booking engine complete with payments,customer issue resolution, parter section etc.
+      <br>
+      Backend:Python-Django<br>
+      Frontend:HTML & CSS <br>
+      Database: MySQL
+      <ul><li>created the hotel booking engine from scratch using the python/ Django framework</li>
+      <li>Worked on gthe development of a central reservation system to handle 10k+ bookings per day</li>
+      </ul><br>
+      <span class="class2"><b>INTERNSHIPS</b><br></span>
+      <p>Summer Intern{May'12-Aug'12 </p>
+      <b>Shields Tech</b> [New york]<ul><li>Worked as a web developer and mobile application intern to develop web pages by using scripting languages.</li></ul>
+      </div>  
+      
+
+      <div class="rightbox">
+        <span class="class2"><b>EDUCATION</b><br></span>
+       <p>UC Berkeley { Jul '09-May'13}  </p>     
+       <b>B.E Computer Science</b><i>(The university of California , Berkeley is the top public university in the United States)</i><ul><li><b>Top 15 Percentile </b>of class</li></ul><br>
+       <span class="class2"><b>KEY SKILLS</b><br></span><br>
+       <span id="id">Software Development</span> <span id="id">Requirement Gathering</span> <span id="id">Unit Testing</span> <span id="id">Code optimization</span> <span id="id">Trouble shooting</span><br>
+       <br><span class="class2"><b>TECHNICAL SKILLS</b><br></span>
+       <UL><LI>Languages:Python,Java,Nodejs,Html,CSS,Javascript</LI>
+        <li>Frameworks:Codeigniter,YII,Drupal,Spring</li>
+        <li>OS:Windows,Linux</li><li>software:Apache,Nginx</li>
+        <li>Database: MySQL,MongoDB,Neo4J</li></UL>
+        <span class="class2"><b>CERTIFICATIONS</b><br></span>
+        <ul><li>Oracle certified Java Developer-Proffessional '15</li><li>AWS certified Developer-Asoociate level'16</li><li>Red hat certified JBoss developer '14</li></ul>
+      </div>
+     
+    
+    </body>
+</html>
