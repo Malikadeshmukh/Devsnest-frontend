@@ -12,6 +12,7 @@
                 background-color:rgb(255, 240, 157);
                 width:40%;
                 height:550px;
+                margin-left:130px;
             }
             
             .rightbox{
