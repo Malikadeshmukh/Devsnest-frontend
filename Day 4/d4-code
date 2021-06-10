@@ -18,8 +18,8 @@
  }
  #circle2{
      position:absolute;
-    top:9%;
-    left:4.5%;
+    top:12%;
+    left:12%;
      height: 330px;
      width: 330px;
      border-radius: 50%;
@@ -29,36 +29,39 @@
  #minute{
      position:absolute;
      border-left:3px solid black;
-     height:20%;
-    top:12%;
-     left:15%;
+     height:45%;
+    top:5%;
+     left:48%;
      transform-origin: top;
      
  }
  #second{
     position:absolute;
      border-left:2px solid black;
-     height:20%;
-     top:32%;
-     left:15%;
+     height:45%;
+     top:18%;
+     left:80%;
      transform-origin:top;    
      transform: rotate(45deg);
  }
  #hour{
     position:absolute;
      border-left:5px solid black;
-     height:20%;
-     top:12%;
-     left:15%;
-     transform-origin: bottom;    
+     height: 45%;
+     top:5%;
+     left:48%;
+     transform-origin:bottom;    
      transform: rotate(60deg);
  }
  </style>
  <body>
-     <div id="circle1"></div>
-     <div id="circle2"></div>
-     <div id="minute"></div> 
-     <div id="second"></div> 
-     <div id="hour"></div>
+     <div id="circle1">
+     <div id="circle2">
+        <div id="minute"></div> 
+        <div id="second"></div> 
+        <div id="hour"></div>
+     </div>
+    </div>
+     
  </body>
  </html>
